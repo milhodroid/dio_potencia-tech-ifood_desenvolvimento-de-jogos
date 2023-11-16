@@ -1,2 +1,3 @@
-# dio_potencia-tech-ifood_desenvolvimento-de-jogos
+# Dio Bootcamp: Potência Tech iFood - Desenvolvimento de Jogos
+
 Potência Tech iFood - Desenvolvimento de Jogos
